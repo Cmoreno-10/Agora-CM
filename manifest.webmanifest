@@ -1,7 +1,7 @@
 {
-  "name": "Ágora · Biblioteca personal",
-  "short_name": "Ágora",
-  "description": "Captura, organiza y repasa tus conocimientos sin backend.",
+  "name": "Ágora PKM 3.0 · Biblioteca de aprendizaje",
+  "short_name": "Ágora 3",
+  "description": "Rutas A1–B1, mapas mentales, ejercicios y biblioteca local de conocimiento.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
